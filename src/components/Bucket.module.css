@@ -1,0 +1,52 @@
+.bucketbox {
+    margin-left: 89px;
+    margin-top: 60px;
+    background-color: #D9D9D9;
+    width: 688px;
+    height: 272px;
+    display: flex;
+}
+
+.bucketimg {
+    max-width: 295px;
+    max-height: 230px;
+    margin-left: 26px;
+    margin-top: 19px;
+}
+
+.bucketboxtext {
+    color: #2B6B46;
+    margin-left: 24px;
+}
+
+.bucketname {
+    font-size: 26px;
+    font-weight: 400;
+    margin-top: 23px;
+    margin-bottom: 2px;
+}
+
+.buckettype {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 14px;
+}
+
+.bucketprice {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.bucketsize {
+    background: #C2C2C2;
+    font-weight: 400;
+    font-size: 20px;
+    color: #2B6B46;
+    border: 0px;
+    width: 150px;
+    height: 37px;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+

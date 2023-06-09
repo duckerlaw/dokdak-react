@@ -1,0 +1,83 @@
+.guidecontainer {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.guide {
+    font-size: 24px;
+    color: #2B6B46;    
+}
+
+.texttype {
+    font-size: 15px;
+    color: rgba(43, 107, 70, 0.8);
+}
+
+.textname {
+    font-size: 18px;
+    color: rgba(43, 107, 70, 0.8);    
+}
+
+.textprice {
+    font-size: 14px;
+    color: rgba(43, 107, 70, 0.8);
+}
+
+.textcontainer p {
+    margin: 5px;
+}
+
+.brandlogo {
+    display: flex;
+    margin-top: 42px;
+    margin-bottom: 61px;
+    justify-content: center;
+    align-items: center;
+}
+
+.nikebrand {
+    /* border: 1px solid red; */
+    max-width: 337px;
+    max-height: 275px;
+    width: 337px;
+    height: 275px;
+}
+
+.nikebrand img {
+    max-width: 337px;
+    max-height: 275px;
+    width: 337px;
+    height: 275px;
+}
+
+.adidasbrand {
+    /* border: 1px solid red; */
+    max-width: 337px;
+    max-height: 275px;
+    width: 337px;
+    height: 275px;
+    margin-left: 36px;
+    margin-right: 36px;
+}
+
+.adidasbrand img {
+    max-width: 337px;
+    max-height: 275px;
+    width: 337px;
+    height: 275px;
+}
+
+.uabrand {
+    /* border: 1px solid red; */
+    max-width: 337px;
+    max-height: 275px;
+    width: 337px;
+    height: 275px;
+}
+
+.uabrand img {
+    max-width: 337px;
+    max-height: 275px;
+    width: 4337px;
+    height: 275px;
+}

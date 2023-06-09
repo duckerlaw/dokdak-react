@@ -1,0 +1,26 @@
+.malecontainer {
+    margin-left: 95px;
+}
+
+.maletext {
+    color: #2B6B46;
+    font-size: 24px;
+    margin-top: 52px;
+    margin-bottom: 58px;
+}
+
+.maleboxitems {
+    display: grid;
+    grid-template-columns: repeat(4,340px);
+}
+
+.maleitems {
+    margin-bottom: 92px;
+}
+
+.maleimg {
+    /* width: 1040px;
+    height: 604px; */
+    max-width: 485px;
+    max-height: 300px;    
+}
